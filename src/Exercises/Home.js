@@ -2,7 +2,7 @@ const Home = () => {
 
   return (
     <div className="text-left">
-      <h1 className="mt-5">B13 - React Graded Activity</h1>
+      <h1 className="mt-5">B13 - React Graded Activity.</h1>
       <p>
         Create a React Application with the following specifications and submit your Github Repository link.
       </p>
@@ -46,7 +46,7 @@ const Home = () => {
           <code>
             useState
           </code>&nbsp;
-                                                                                                                                                                                                                                      React hook to track how many times a button is clicked, and display the number.
+                                                                                                                                                                                                                                                React hook to track how many times a button is clicked, and display the number.
         </p>
         <p>
           The number must increment each time the button is clicked:
